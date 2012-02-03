@@ -1,0 +1,7 @@
+name: VanishNoTesting
+main: org.kitteh.vnptest.VanishTest
+version: 1.0
+website: http://kitteh.org
+depend: [VanishNoPacket,Spout]
+author: mbaxter
+description: Nope
